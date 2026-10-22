@@ -1,21 +1,30 @@
 # Week 1: Data Science Orientation and Problem Definition
 
-## Project Title: Customer Churn Prediction
+## Project Title: Customer Preferences and Review Analysis in Beauty & Wellness
 
 ### Introduction
-In this week, I focused on understanding what Data Science is and how it can help solve a practical problem. Data Science involves working with data, finding patterns, and using the information to support decisions.
+In this project, I want to understand how Data Science can be useful in the beauty and wellness industry. This industry includes skincare, haircare, cosmetics, and personal care products. Customer reviews and ratings can provide useful information about what people like and what they expect from different products.
 
 ### Problem Statement
-For this project, I chose customer churn as the problem to study. Customer churn happens when a customer stops using a company's product or service. When a business loses customers, it may also lose income. I want to explore whether customer information can help a business understand which factors are linked with customers leaving.
+Beauty and wellness businesses offer many products, but it may be difficult to understand customer preferences from a large number of reviews. The purpose of this project is to explore how customer ratings and reviews can help identify product preferences and common opinions. This information may help businesses understand their customers and improve their product selection.
 
 ### Objectives
-The first objective is to understand the problem and decide what information may be useful. Possible variables include customer tenure, contract type, monthly charges, services used, and churn status. The exact variables will depend on the dataset selected later. Another objective is to plan the steps needed for the project before starting the analysis.
+The main objective is to define a business problem that can be studied using Data Science. I plan to identify a suitable dataset, understand the available information, and decide which variables may be useful. These variables could include product category, price, rating, review text, and brand name, depending on the dataset.
 
-### Tools
-I plan to use Python for the project. Pandas and NumPy can help handle data, while Matplotlib and Seaborn can be used to make charts. Scikit-learn may be used in a later week if a machine learning model is developed.
+### Research Questions
+1. Which beauty and wellness product categories receive better ratings?
+2. What common opinions do customers express in their reviews?
+3. Are there differences in ratings across product categories or price ranges?
+4. How can these observations help a business understand customer preferences?
+
+### Tools and Technologies
+I plan to use Python for data analysis. Pandas and NumPy may help organize and process the data. Matplotlib and Seaborn can be used to prepare graphs and understand patterns. If suitable review data is available, basic text analysis may also be considered.
 
 ### Planned Methodology
-The next steps will be to find a suitable customer dataset from a reliable source, check its columns and quality, and clean it if needed. After that, I will explore the data with summaries and graphs. If the dataset supports it, I will train and evaluate a suitable model. The results will be reported honestly based on the analysis carried out.
+First, I will look for a suitable publicly available dataset and check its source. Next, I will examine the columns, data types, missing values, and duplicate records. After understanding the dataset, I will prepare the data for analysis and explore ratings, product categories, and customer reviews using tables and visualizations. The conclusions will be based on the actual data studied.
 
-### Week 1 Outcome
-The outcome of this week is a defined problem, a project objective, a list of possible data fields, and an initial plan for the remaining work. No model results are claimed at this stage because the dataset and analysis have not yet been completed.
+### Expected Outcome
+The expected outcome of Week 1 is a clear problem statement, defined objectives, relevant research questions, and an initial plan for data analysis. The actual findings and recommendations will be prepared in later stages after collecting and studying the dataset.
+
+### Conclusion
+This project will help me understand how Data Science can be applied to a practical problem in the beauty and wellness industry. Defining the problem clearly is the first step toward conducting useful and reliable data analysis.
